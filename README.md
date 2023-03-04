@@ -7,5 +7,5 @@ The figure below show the loss and accuracy versus epoch for training and valida
 
 The figures below show the confusion matrix for training and validation data:
 
-![confusion_matrix_test](https://user-images.githubusercontent.com/12114448/222920523-2eae994c-42c8-4685-98dd-0d910f1fa576.png)
-![confusion_matrix_train](https://user-images.githubusercontent.com/12114448/222920525-fe254a7c-3fa6-4704-b272-d46f7ae37483.png)
+![confusion_matrix_Training](https://user-images.githubusercontent.com/12114448/222920567-1a749d95-6331-4a6b-8635-f190426907bb.png)
+![confusion_matrix_Validation](https://user-images.githubusercontent.com/12114448/222920569-f9bc4e5d-3367-4ddb-bf3b-d8b1d1bf398d.png)
